@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "wCukJgf2ffRQyiCTjIpGgP0tHynA4WZNrEYUk7IO7so=",
+  "Source": "task_mngmnt1",
+  "BasePath": "_content/task_mngmnt1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
